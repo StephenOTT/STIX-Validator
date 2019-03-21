@@ -136,7 +136,7 @@ First load will be slower as it is warming up in the JVM.
 
 POST `/api/validation/bundle`
 
-# Bundleable Objects
+## Bundleable Objects
 
 A generic endpoint that supports the validation of all bundleable objects (SDO/Stix Domain objects, Data Markings)
 
